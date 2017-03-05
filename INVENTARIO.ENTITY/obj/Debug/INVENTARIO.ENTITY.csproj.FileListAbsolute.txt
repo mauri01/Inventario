@@ -1,0 +1,40 @@
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\INVENTARIO.ENTITY.dll.config
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\INVENTARIO.ENTITY.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\INVENTARIO.ENTITY.pdb
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\EntityFramework.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\EntityFramework.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.Migrations.AddClassPerfil.resources
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.Migrations.AddClassUsuario.resources
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.Migrations.AddClassInventario.resources
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.Migrations.UpdateClassUsuario.resources
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.Migrations.UpdateClassUsuario1.resources
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.Migrations.UpdateClasssUsuario.resources
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.csproj.GenerateResource.Cache
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.pdb
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.csprojResolveAssemblyReference.cache
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\INVENTARIO.ENTITY.dll.config
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\INVENTARIO.ENTITY.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\INVENTARIO.ENTITY.pdb
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\EntityFramework.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\EntityFramework.SqlServer.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\System.Linq.Dynamic.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\EntityFramework.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\EntityFramework.SqlServer.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\es\EntityFramework.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.csprojResolveAssemblyReference.cache
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.Migrations.AddClassPerfil.resources
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.Migrations.AddClassUsuario.resources
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.Migrations.AddClassInventario.resources
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.Migrations.UpdateClassUsuario.resources
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.Migrations.UpdateClassUsuario1.resources
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.Migrations.UpdateClasssUsuario.resources
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.csproj.GenerateResource.Cache
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.ENTITY\obj\Debug\INVENTARIO.ENTITY.pdb

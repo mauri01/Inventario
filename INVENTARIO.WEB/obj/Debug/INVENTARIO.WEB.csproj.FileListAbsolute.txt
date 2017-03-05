@@ -1,0 +1,412 @@
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\ApplicationInsights.config
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\roslyn\csc.exe
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\roslyn\vbc.exe
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.WEB.dll.config
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.WEB.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.WEB.pdb
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Antlr3.Runtime.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.ENTITY.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Newtonsoft.Json.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Owin.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Helpers.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Mvc.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Optimization.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Razor.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\WebGrease.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.ENTITY.pdb
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Helpers.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Mvc.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Optimization.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Razor.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Newtonsoft.Json.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Razor.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\EntityFramework.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\obj\Debug\INVENTARIO.WEB.csprojResolveAssemblyReference.cache
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\obj\Debug\INVENTARIO.WEB.dll
+C:\Users\Gime\Documents\Visual Studio 2015\Projects\INVENTARIO\INVENTARIO.WEB\obj\Debug\INVENTARIO.WEB.pdb
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\ApplicationInsights.config
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\roslyn\csc.exe
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\roslyn\vbc.exe
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\roslyn\VBCSCompiler.exe
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.WEB.dll.config
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.WEB.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.WEB.pdb
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Antlr3.Runtime.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.SqlServer.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.ENTITY.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.DependencyCollector.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.Web.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.WindowsServer.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.ApplicationInsights.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Google.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Web.Infrastructure.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Newtonsoft.Json.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Owin.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Helpers.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Mvc.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Optimization.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Razor.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Deployment.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Razor.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\WebGrease.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.ENTITY.pdb
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.DependencyCollector.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.Web.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.WindowsServer.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.ApplicationInsights.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Helpers.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Mvc.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Optimization.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Razor.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Deployment.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Razor.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Antlr3.Runtime.pdb
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Newtonsoft.Json.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.SqlServer.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Google.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Helpers.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Mvc.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Optimization.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Razor.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.WebPages.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\EntityFramework.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\EntityFramework.SqlServer.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.Google.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\obj\Debug\INVENTARIO.WEB.csprojResolveAssemblyReference.cache
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\obj\Debug\INVENTARIO.WEB.dll
+E:\Proyectos .Net\INVENTARIO\INVENTARIO.WEB\obj\Debug\INVENTARIO.WEB.pdb
+E:\INVENTARIO\INVENTARIO.WEB\bin\ApplicationInsights.config
+E:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\csc.exe
+E:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\System.Collections.Immutable.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\System.Reflection.Metadata.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\vbc.exe
+E:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\VBCSCompiler.exe
+E:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\VBCSCompiler.exe.config
+E:\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.WEB.dll.config
+E:\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.WEB.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.WEB.pdb
+E:\INVENTARIO\INVENTARIO.WEB\bin\Antlr3.Runtime.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.SqlServer.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.ENTITY.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.DependencyCollector.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.Web.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.WindowsServer.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.ApplicationInsights.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Facebook.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Google.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Twitter.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Web.Infrastructure.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Newtonsoft.Json.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\Owin.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Helpers.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Mvc.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Optimization.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Razor.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Deployment.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Razor.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\WebGrease.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.ENTITY.pdb
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.DependencyCollector.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.Web.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.WindowsServer.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.ApplicationInsights.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Helpers.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Mvc.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Optimization.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Razor.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Deployment.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Razor.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Antlr3.Runtime.pdb
+E:\INVENTARIO\INVENTARIO.WEB\bin\Newtonsoft.Json.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.SqlServer.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Facebook.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Google.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Twitter.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Helpers.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Mvc.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Optimization.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Razor.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.WebPages.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\EntityFramework.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\EntityFramework.SqlServer.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.Google.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\INVENTARIO\INVENTARIO.WEB\obj\Debug\INVENTARIO.WEB.csprojResolveAssemblyReference.cache
+E:\INVENTARIO\INVENTARIO.WEB\obj\Debug\INVENTARIO.WEB.dll
+E:\INVENTARIO\INVENTARIO.WEB\obj\Debug\INVENTARIO.WEB.pdb
+H:\INVENTARIO\INVENTARIO.WEB\bin\ApplicationInsights.config
+H:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\csc.exe
+H:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\System.Collections.Immutable.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\System.Reflection.Metadata.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\vbc.exe
+H:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\VBCSCompiler.exe
+H:\INVENTARIO\INVENTARIO.WEB\bin\roslyn\VBCSCompiler.exe.config
+H:\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.WEB.dll.config
+H:\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.WEB.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.WEB.pdb
+H:\INVENTARIO\INVENTARIO.WEB\bin\Antlr3.Runtime.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.SqlServer.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.ENTITY.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.DependencyCollector.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.Web.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.WindowsServer.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.ApplicationInsights.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Facebook.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Google.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Twitter.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Web.Infrastructure.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Newtonsoft.Json.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\Owin.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Helpers.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Mvc.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Optimization.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Razor.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Deployment.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Razor.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\WebGrease.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\INVENTARIO.ENTITY.pdb
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.DependencyCollector.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.Web.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AI.WindowsServer.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.ApplicationInsights.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Helpers.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Mvc.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Optimization.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.Razor.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Deployment.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\System.Web.WebPages.Razor.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Antlr3.Runtime.pdb
+H:\INVENTARIO\INVENTARIO.WEB\bin\Newtonsoft.Json.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\EntityFramework.SqlServer.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Facebook.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Google.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.Twitter.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Helpers.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Mvc.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Optimization.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.Razor.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.WebPages.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\EntityFramework.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\EntityFramework.SqlServer.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.Google.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+H:\INVENTARIO\INVENTARIO.WEB\obj\Debug\INVENTARIO.WEB.csprojResolveAssemblyReference.cache
+H:\INVENTARIO\INVENTARIO.WEB\obj\Debug\INVENTARIO.WEB.dll
+H:\INVENTARIO\INVENTARIO.WEB\obj\Debug\INVENTARIO.WEB.pdb
